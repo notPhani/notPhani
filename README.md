@@ -22,4 +22,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notPhani&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!   
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/phani-kumar-31277531a/)  
