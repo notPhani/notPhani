@@ -9,7 +9,7 @@
 - **Specialties**: Data preprocessing, CNNs, Web Scraping, Image Processing  
 
 ## 🛠️ Projects
-🔭 **[Galaxy Redshift Prediction](https://github.com/notPhani/)**  
+🔭 **[Galaxy Redshift Prediction](https://github.com/notPhani/Redshit-using-AI_v1)**  
 - Building a super model to predict redshifts by reconstructing galaxy spectra using CNNs and XGBoost.  
 - Automated data collection with Selenium and optimized preprocessing with FITS files.  
 - Going to achieve ninety plus accuracy using advanced ML models.  
