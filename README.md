@@ -23,7 +23,7 @@ Software engineer with expertise in machine learning, full-stack development, an
 🎯 **Status:** Open to full-time opportunities  
 💼 **Focus Areas:** ML Engineering • Full-Stack Development • Systems Programming  
 
-**Professional Mission:** Developing innovative solutions at the intersection of machine learning, computer graphics, and high-performance computing. Committed to writing clean, maintainable code and delivering measurable impact.
+**Professional Mission:** Developing innovative solutions at the intersection of machine learning, computer graphics, and high-performance computing. Seeking opportunities to apply these skills in production environments — whether building **ML infrastructure at scale**, designing **full-stack applications** that handle millions of users, or optimizing **low-level systems** for performance. Particularly interested in teams that value versatility, technical excellence, and end-to-end ownership.
 
 ---
 
