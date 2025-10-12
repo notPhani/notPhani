@@ -114,6 +114,6 @@ All code powered by curiosity and concerningly high caffeine levels.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Booting...;Loading+AI+Modules...;Restoring+Projects+From+Quantum+Cache...;System+Online." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Let's Connect ;Buy me a Coffee;Desperate in getting a job! ;Commited to my repo." />
 
 </div>
