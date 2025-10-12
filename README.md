@@ -5,11 +5,9 @@
 ░█▀█░█░█░█▀█░█▀█░█▀█░█▀█░█▀▄░░░█▀▄░█▀█░█▀█░█▀▄░█▀█  
 ░█▀▀░█░█░█▀▀░█░█░█░█░█▀█░█▀▄░░░█▀▄░█▀█░█▀█░█▀▄░█▀█  
 ░▀░░░▀▀▀░▀░░░▀▀▀░▀▀▀░▀░▀░▀▀░░░░▀▀░░▀░▀░▀░▀░▀░▀░▀░▀
-
-# 🧠 `Initializing Phani.exe`  
 ### *"Debugging life one cosmic compile at a time."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Booting+PhaniVerse...;Loading+AI+Modules...;Restoring+Projects+From+Quantum+Cache...;System+Online." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Booting...;Loading+AI+Modules...;Restoring+Projects+From+Quantum+Cache...;System+Online." />
 
 </div>
 
@@ -17,7 +15,7 @@
 
 ## 💼 About Me
 
-👋 Hey! I'm **Phani** (aka Vikram) — a developer who rows multiple boats and somehow hasn't capsized yet.
+👋 Hey! I'm **Phani** a developer based in India who rows multiple boats and somehow hasn't capsized yet.
 
 📍 **Based in:** Vijayawada, India  
 🎯 **Status:** Open for work. Aiming high. Caffeinated always.  
@@ -86,8 +84,8 @@ My mission? Bridge high-performance physics, machine learning, and art. Then shi
 
 ---
 
-## 📜 Boot Log (Extended)
-
+## 📜 Boot Log 
+```
 Deploying personal growth...
 Meditation routine..............IN PROGRESS
 Coffee intake...................OPTIMAL (debatable)
@@ -96,9 +94,7 @@ Bugs introduced.................47 (fixed: 23)
 Resume polish...................DONE ✅
 Internship target...............AMAZON | NETFLIX
 Sanity check....................FAILED (expected)
-Universe alignment..............SYNCHRONIZED
-
-
+```
 ---
 
 ## 🛰️ The Story So Far
@@ -115,8 +111,8 @@ All code powered by curiosity and concerningly high caffeine levels.
 
 ## 🌟 Let's Connect
 
-💼 [LinkedIn](https://linkedin.com/in/phani-kumar-31277531a)  
-📧 **Email:** your-email-here  
+💼 [LinkedIn](https://www.linkedin.com/in/phanikumar2007/)  
+📧  [Email](phaniexplains14@gmail.com)
 🌐 **Portfolio:** Coming soon (after I finish debugging my life)
 
 ---
