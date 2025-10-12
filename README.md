@@ -63,16 +63,7 @@ My mission? Bridge high-performance physics, machine learning, and art. Then shi
 ---
 
 ## 🧩 Stats (aka my therapist's nightmare)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notPhani&theme=react-dark&hide_border=true" width="90%" />
-</p>
-
 *"My commit graph looks like an EKG reading from someone who just discovered espresso shots."*
-
----
-
-## 🧱 3D Contribution Tracker
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/notPhani/notPhani/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </p>
