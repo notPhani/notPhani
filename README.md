@@ -2,9 +2,10 @@
 
 <div align="center">
 
-░█▀█░█░█░█▀█░█▀█░█▀█░█▀█░█▀▄░░░█▀▄░█▀█░█▀█░█▀▄░█▀█  
-░█▀▀░█░█░█▀▀░█░█░█░█░█▀█░█▀▄░░░█▀▄░█▀█░█▀█░█▀▄░█▀█  
-░▀░░░▀▀▀░▀░░░▀▀▀░▀▀▀░▀░▀░▀▀░░░░▀▀░░▀░▀░▀░▀░▀░▀░▀░▀
+░█░█░█▀▀░█░█░░░▀█▀░█░█░█▀▀░█▀▄░█▀▀  
+░█▀█░█▀▀░░█░░░░░█░░█▀█░█▀▀░█▀▄░█▀▀  
+░▀░▀░▀▀▀░░▀░░░░░▀░░▀░▀░▀▀▀░▀░▀░▀▀▀
+
 ### *"Debugging life one cosmic compile at a time."*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Booting...;Loading+AI+Modules...;Restoring+Projects+From+Quantum+Cache...;System+Online." />
@@ -62,12 +63,6 @@ My mission? Bridge high-performance physics, machine learning, and art. Then shi
 ---
 
 ## 🧩 Stats (aka my therapist's nightmare)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notPhani&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notPhani&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notPhani&theme=react-dark&hide_border=true" width="90%" />
 </p>
@@ -79,7 +74,7 @@ My mission? Bridge high-performance physics, machine learning, and art. Then shi
 ## 🧱 3D Contribution Tracker
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/notPhani/notPhani/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </p>
 
 ---
