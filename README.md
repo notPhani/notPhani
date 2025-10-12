@@ -108,12 +108,5 @@ All code powered by curiosity and concerningly high caffeine levels.
 
 💼 [LinkedIn](https://www.linkedin.com/in/phanikumar2007/)  
 📧  [Email](phaniexplains14@gmail.com)
-🌐 [Portfolio]**Portfolio:** Coming soon (after I finish debugging my life)
 
----
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Let's Connect ;Buy me a Coffee;Desperate in getting a job! ;Commited to my repo." />
-
-</div>
