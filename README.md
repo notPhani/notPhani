@@ -108,12 +108,12 @@ All code powered by curiosity and concerningly high caffeine levels.
 
 💼 [LinkedIn](https://www.linkedin.com/in/phanikumar2007/)  
 📧  [Email](phaniexplains14@gmail.com)
-🌐 **Portfolio:** Coming soon (after I finish debugging my life)
+🌐 [Portfolio]**Portfolio:** Coming soon (after I finish debugging my life)
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FF9C&center=true&vCenter=true&width=435&lines=System+shutdown+initiated...;Thanks+for+visiting!+🚀;May+your+code+compile+on+the+first+try.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Booting...;Loading+AI+Modules...;Restoring+Projects+From+Quantum+Cache...;System+Online." />
 
 </div>
