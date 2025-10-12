@@ -39,14 +39,6 @@ My mission? Bridge high-performance physics, machine learning, and art. Then shi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,go,cpp,js,ts,pytorch,react,svelte,docker,git,linux,blender,figma" />
 </p>
-
-## 🧩 Stats (aka my therapist's nightmare)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notPhani&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notPhani&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notPhani&theme=react-dark&hide_border=true" width="90%" />
 </p>
