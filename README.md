@@ -11,13 +11,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+QtorchX+%E2%80%94+Quantum+ML+Framework;Researching+Quantum+Noise+Formalisms;Diffusion+Models+%C3%97+Physically-Based+Rendering;Seeking+Summer+2026+Internship" />
 
+<br/>
+
+[![PyPI - Version](https://img.shields.io/pypi/v/qtorchx?label=QtorchX&color=blueviolet&logo=python&logoColor=white)](https://pypi.org/project/qtorchx/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/qtorchx?label=downloads%2Fmonth&color=blueviolet)](https://pypi.org/project/qtorchx/)
+[![Paper](https://img.shields.io/badge/Paper-Pending%20Publication-orange?logo=arxiv&logoColor=white)](https://github.com/notPhani/QtorchX)
+[![Profile Views](https://komarev.com/ghpvc/?username=notPhani&color=58A6FF&style=flat&label=profile+views)](https://github.com/notPhani)
+[![GitHub Followers](https://img.shields.io/github/followers/notPhani?label=followers&style=flat&color=58A6FF&logo=github)](https://github.com/notPhani?tab=followers)
+[![VIT Chennai](https://img.shields.io/badge/VIT%20Chennai-CGPA%3A%208.6-brightgreen?logo=graduation-cap&logoColor=white)](https://github.com/notPhani)
+[![Internship](https://img.shields.io/badge/Status-Seeking%20Summer%202026%20Internship-success?style=flat)](https://linkedin.com/in/phanikumar2007)
+
 </div>
 
 ---
 
 ## ⚡ About Me
 
-CS undergrad at VIT Chennai building things that sit at the intersection of quantum computing, ML systems, and low-level engineering. I write frameworks people actually use.
+CS undergrad at VIT Chennai building things that sit at the intersection of quantum computing, ML systems, and low-level engineering. I write frameworks people actually use, not just toy repos.
 
 📍 **Location:** Andhra Pradesh, India  
 🎯 **Status:** Seeking Summer 2026 Internship (Onsite / Remote)  
