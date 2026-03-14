@@ -17,7 +17,7 @@
 
 ## ⚡ About Me
 
-CS undergrad at VIT Chennai building things that sit at the intersection of quantum computing, ML systems, and low-level engineering. I write frameworks people actually use, not just toy repos.
+CS undergrad at VIT Chennai building things that sit at the intersection of quantum computing, ML systems, and low-level engineering. I write frameworks people actually use.
 
 📍 **Location:** Andhra Pradesh, India  
 🎯 **Status:** Seeking Summer 2026 Internship (Onsite / Remote)  
