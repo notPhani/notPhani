@@ -25,27 +25,27 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
-CS undergrad at VIT Chennai building things that sit at the intersection of quantum computing, ML systems, and low-level engineering. I write frameworks people actually use, not just toy repos.
+CS undergrad at VIT Chennai working at the intersection of quantum computing, ML systems, and low-level engineering. I build and publish open-source frameworks, design novel noise formalisms, and ship production-grade systems end to end.
 
-📍 **Location:** Andhra Pradesh, India  
-🎯 **Status:** Seeking Summer 2026 Internship (Onsite / Remote)  
-💼 **Focus Areas:** Quantum ML · ML Systems · Compilers & Rendering
-
----
-
-## 🏆 Highlights
-
-📦 **[QtorchX](https://github.com/notPhani/QtorchX)** — PyPI-deployed quantum ML framework · First to implement QNaF (original formalism) · Trainable hardware calibration layer · **300+ downloads/month**  
-📄 **Paper pending publication:** *"From Channels to Fields: A Spatiotemporal Formalism for Quantum Noise in Circuits"*  
-🔭 **[ASTRA](https://github.com/notPhani/ASTRA)** — Vision Transformer for galaxy redshift estimation · Custom RoPE + Fourier-domain loss  
-🎮 **AI Architecture Intern @ WeCraft Studios** · **Full-Stack AI Intern @ Texium Solutions**  
-✨ **Featured in Hitesh Malhotra's AI Challenge 2025** (BakeLight / Optimizing-Ray-Tracing)
+▸ **Location:** Andhra Pradesh, India  
+▸ **Status:** Seeking Summer 2026 Internship (Onsite / Remote)  
+▸ **Focus Areas:** Quantum ML · ML Systems · Compilers & Rendering
 
 ---
 
-## 🛠️ Stack
+## Highlights
+
+◈ **[QtorchX](https://github.com/notPhani/QtorchX)** — PyPI-deployed quantum ML framework · First to implement QNaF (original formalism) · Trainable hardware calibration layer · **300+ downloads/month**  
+◈ **Paper pending publication:** *"From Channels to Fields: A Spatiotemporal Formalism for Quantum Noise in Circuits"*  
+◈ **[ASTRA](https://github.com/notPhani/ASTRA)** — Vision Transformer for galaxy redshift estimation · Custom RoPE + Fourier-domain loss  
+◈ **AI Architecture Intern @ WeCraft Studios** · **Full-Stack AI Intern @ Texium Solutions**  
+◈ **Featured in Hitesh Malhotra's AI Challenge 2025** (BakeLight / Optimizing-Ray-Tracing)
+
+---
+
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,go,cpp,js,ts,pytorch,react,svelte,docker,git,linux" />
@@ -61,9 +61,9 @@ CS undergrad at VIT Chennai building things that sit at the intersection of quan
 
 ---
 
-## 🚀 Featured Projects
+## My Projects
 
-### 🔬 Research & ML Systems
+### ◆ research · ml systems
 
 | Project | What it is | Key Tech | Signal |
 |---------|-----------|----------|--------|
@@ -71,14 +71,14 @@ CS undergrad at VIT Chennai building things that sit at the intersection of quan
 | [**ASTRA**](https://github.com/notPhani/ASTRA) | Vision Transformer estimating galaxy redshift by jointly modeling spectral sequences and image embeddings under stochastic telescope noise | PyTorch, RoPE (2D), Multi-latent Attention, Fourier Loss | Custom ViT architecture · 3,500+ galaxy dataset |
 | [**BakeLight**](https://github.com/notPhani/Optimizing-Ray-Tracing) | GPU-accelerated RL-guided diffusion model for neural global illumination, with BVH-accelerated renderer and spherical harmonics scene embeddings | PyTorch, CUDA, BVH, Diffusion Models, RL | ~70% render time reduction on fractal benchmarks |
 
-### 🔐 Security & Systems
+### ◆ security · systems
 
 | Project | What it is | Key Tech | Signal |
 |---------|-----------|----------|--------|
 | [**SIGIL**](https://github.com/notPhani/SIGIL-v0.1) | LWE-based post-quantum auth pipeline — a pluggable security layer that sits over existing backend services | Lattice Crypto, LWE Signatures, Quantum Simulation | Benchmarked under simulated quantum attack models |
 | [**c2bf-in-RUST**](https://github.com/notPhani/c2bf-in-RUST) | C-like to Brainfuck compiler with hand-written Pratt parser, custom IR, memory mapping, and peephole optimizations — zero external compiler frameworks | Rust, Pratt Parsing, Custom IR, Peephole Opts | End-to-end compiler from scratch |
 
-### 🧠 Dev Tools & Full-Stack
+### ◆ dev tools · full-stack
 
 | Project | What it is | Key Tech | Signal |
 |---------|-----------|----------|--------|
@@ -87,7 +87,7 @@ CS undergrad at VIT Chennai building things that sit at the intersection of quan
 
 ---
 
-## 📊 Activity
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notPhani&theme=react-dark&hide_border=true" width="90%" />
@@ -99,11 +99,11 @@ CS undergrad at VIT Chennai building things that sit at the intersection of quan
 
 ---
 
-## 📫 Contact
+## Contact
 
-💼 [linkedin.com/in/phanikumar2007](https://www.linkedin.com/in/phanikumar2007/)  
-📧 phanikumarpatnala.224007@gmail.com  
-🌐 [github.com/notPhani](https://github.com/notPhani)
+▸ [linkedin.com/in/phanikumar2007](https://www.linkedin.com/in/phanikumar2007/)  
+▸ phanikumarpatnala.224007@gmail.com  
+▸ [github.com/notPhani](https://github.com/notPhani)
 
 ---
 
