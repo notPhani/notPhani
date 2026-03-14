@@ -6,75 +6,78 @@
 ░█▀█░█▀▀░░█░░░░░█░░█▀█░█▀▀░█▀▄░█▀▀  
 ░▀░▀░▀▀▀░░▀░░░░░▀░░▀░▀░▀▀▀░▀░▀░▀▀▀
 
-# Phani Kumar  
-### Software Engineer | ML Researcher | Systems Builder
+# Phani Kumar
+### ML Researcher · Systems Engineer · Framework Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full-Stack+Developer;Systems+Programmer;Open+to+New+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+QtorchX+%E2%80%94+Quantum+ML+Framework;Researching+Quantum+Noise+Formalisms;Diffusion+Models+%C3%97+Physically-Based+Rendering;Seeking+Summer+2026+Internship" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-Software engineer with expertise in machine learning, full-stack development, and systems programming. Passionate about building high-performance systems that bridge classical algorithms with modern ML techniques.
+CS undergrad at VIT Chennai building things that sit at the intersection of quantum computing, ML systems, and low-level engineering. I write frameworks people actually use, not just toy repos.
 
-📍 **Location:** Vijayawada, India  
-🎯 **Status:** Open to full-time opportunities  
-💼 **Focus Areas:** ML Engineering • Full-Stack Development • Systems Programming  
-
-**Professional Mission:** Developing innovative solutions at the intersection of machine learning, computer graphics, and high-performance computing. Seeking opportunities to apply these skills in production environments — whether building **ML infrastructure at scale**, designing **full-stack applications** that handle millions of users, or optimizing **low-level systems** for performance. Particularly interested in teams that value versatility, technical excellence, and end-to-end ownership.
+📍 **Location:** Andhra Pradesh, India  
+🎯 **Status:** Seeking Summer 2026 Internship (Onsite / Remote)  
+💼 **Focus Areas:** Quantum ML · ML Systems · Compilers & Rendering
 
 ---
 
-## 🎓 Highlights
+## 🏆 Highlights
 
-✨ **Featured in Hitesh Malhotra's AI Challenge 2025** (Optimizing-Ray-Tracing project)  
-🚀 **4+ Production-Ready Projects** spanning ML, systems, and full-stack development  
-⚡ **Specialized Expertise** in ML-guided rendering, GPU acceleration, and compiler design  
-📊 **Research Focus** on hybrid classical-ML approaches for computational efficiency
+📦 **[QtorchX](https://github.com/notPhani/QtorchX)** — PyPI-deployed quantum ML framework · First to implement QNaF (original formalism) · Trainable hardware calibration layer · **300+ downloads/month**  
+📄 **Paper pending publication:** *"From Channels to Fields: A Spatiotemporal Formalism for Quantum Noise in Circuits"*  
+🔭 **[ASTRA](https://github.com/notPhani/ASTRA)** — Vision Transformer for galaxy redshift estimation · Custom RoPE + Fourier-domain loss  
+🎮 **AI Architecture Intern @ WeCraft Studios** · **Full-Stack AI Intern @ Texium Solutions**  
+✨ **Featured in Hitesh Malhotra's AI Challenge 2025** (BakeLight / Optimizing-Ray-Tracing)
 
 ---
 
-## 💼 Technical Expertise
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ML%20Engineer-PyTorch%20•%20Deep%20Learning%20•%20Computer%20Vision-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-React%20•%20Go%20•%20Node.js-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems-Rust%20•%20CUDA%20•%20C++-red?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,rust,go,cpp,js,ts,pytorch,react,svelte,docker,git,linux" />
 </p>
 
----
-
-## 🛠️ Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,cpp,js,ts,pytorch,react,svelte,docker,git,linux,blender,figma" />
-</p>
-
-**Core Technologies:**  
-- **ML/AI:** PyTorch, TensorFlow, GANs, Diffusion Models, Transformers  
-- **Systems:** Rust, C/C++, CUDA, GPU Programming  
-- **Full-Stack:** Go, Svelte, React, Node.js, PostgreSQL, Supabase  
-- **Tools:** Docker, Git, Linux, Blender, Mitsuba 3
-
-**Specializations:** Machine Learning for Graphics • High-Performance Computing • Compiler Design • Distributed Systems
+| Domain | Technologies |
+|--------|-------------|
+| **ML / AI** | PyTorch, Transformers, Diffusion Models, GANs, Multimodal Learning |
+| **Quantum** | Qiskit, Cirq, Differentiable Circuit Simulation, QNaF Formalism |
+| **Systems** | Rust, C/C++, CUDA, BVH Rendering, Compiler Design, Concurrency (Tokio, GoRoutines) |
+| **Backend** | FastAPI, Flask, Django, JSON-RPC 2.0, PostgreSQL, FITS Processing |
+| **Security** | LWE-based Signatures, Post-Quantum Auth Pipelines, Lattice-based Crypto |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technical Highlights | Impact |
-|---------|-------------|---------------------|---------|
-| [**Optimizing-Ray-Tracing**](https://github.com/notPhani/Optimizing-Ray-Tracing) | ML-guided path tracing renderer combining classical ray tracing with learned path generation and diffusion-based refinement. Featured in AI Challenge 2025. | PyTorch, CUDA, GANs, Diffusion Models, Physics-based Rendering | Achieved significant variance reduction in rendering convergence through hybrid ML-classical approach |
-| [**ASTRA**](https://github.com/notPhani/ASTRA) | Astronomical Spectral Transformer for galaxy redshift approximation using custom attention mechanisms. | PyTorch, Transformers, RoPE Embeddings, Mixture of Experts (MoE) | Developed novel architecture for high-accuracy spectral analysis in astrophysics domain |
-| [**AstroPixel_Spectra**](https://github.com/notPhani/AstroPixel_Spectra) | Curated dataset of 3,500+ galaxies with multi-filter images and corresponding spectra for ML research. | Data Engineering, Scientific Computing, SciPy, NumPy | Enables multi-modal ML research in astronomical data analysis |
-| [**c2bf-in-RUST**](https://github.com/notPhani/c2bf-in-RUST) | C-to-Brainfuck compiler demonstrating end-to-end compiler design with custom parser and IR. | Rust, Compiler Design, Pratt Parsing, Intermediate Representation | Showcases deep understanding of language design and compilation pipelines |
-| [**Caveman Board**](https://github.com/notPhani/Caveman-Board) | Real-time multiplayer physics simulation engine built from scratch with adaptive spatial optimization. | Go, WebSockets, Spatial Hashing, Concurrency | Demonstrates systems programming and real-time distributed architecture skills |
+### 🔬 Research & ML Systems
+
+| Project | What it is | Key Tech | Signal |
+|---------|-----------|----------|--------|
+| [**QtorchX**](https://github.com/notPhani/QtorchX) | PyTorch-based quantum ML framework and the **first framework to implement QNaF** — a novel spatiotemporal noise formalism I developed — treating quantum noise as continuous fields rather than static channels. Features a **trainable hardware calibration layer** that learns device-specific error fingerprints, enabling near-ideal fidelity (~95%) on real hardware without manual recalibration. Runs 2–4× faster than Kraus-based simulation with lower memory overhead. | PyTorch, Differentiable Circuits, QNaF (original formalism), Hardware-Aware Calibration | **PyPI · 300+ downloads/month · Paper pending publication** |
+| [**ASTRA**](https://github.com/notPhani/ASTRA) | Vision Transformer estimating galaxy redshift by jointly modeling spectral sequences and image embeddings under stochastic telescope noise | PyTorch, RoPE (2D), Multi-latent Attention, Fourier Loss | Custom ViT architecture · 3,500+ galaxy dataset |
+| [**BakeLight**](https://github.com/notPhani/Optimizing-Ray-Tracing) | GPU-accelerated RL-guided diffusion model for neural global illumination, with BVH-accelerated renderer and spherical harmonics scene embeddings | PyTorch, CUDA, BVH, Diffusion Models, RL | ~70% render time reduction on fractal benchmarks |
+
+### 🔐 Security & Systems
+
+| Project | What it is | Key Tech | Signal |
+|---------|-----------|----------|--------|
+| [**SIGIL**](https://github.com/notPhani/SIGIL-v0.1) | LWE-based post-quantum auth pipeline — a pluggable security layer that sits over existing backend services | Lattice Crypto, LWE Signatures, Quantum Simulation | Benchmarked under simulated quantum attack models |
+| [**c2bf-in-RUST**](https://github.com/notPhani/c2bf-in-RUST) | C-like to Brainfuck compiler with hand-written Pratt parser, custom IR, memory mapping, and peephole optimizations — zero external compiler frameworks | Rust, Pratt Parsing, Custom IR, Peephole Opts | End-to-end compiler from scratch |
+
+### 🧠 Dev Tools & Full-Stack
+
+| Project | What it is | Key Tech | Signal |
+|---------|-----------|----------|--------|
+| [**VectorX**](https://github.com/notPhani/VectorX) | Research workspace combining an infinite canvas with a source-anchored literature manager and a constrained RAG pipeline — AI output is strictly bounded to user-owned data | RAG, Deterministic Sync, Node Canvas | Source-traceability enforced at architecture level |
+| [**AstroPixel_Spectra**](https://github.com/notPhani/AstroPixel_Spectra) | Curated dataset of 3,500+ galaxies with multi-filter images and spectra, built as the training backbone for ASTRA | SciPy, NumPy, FITS, Data Engineering | Public ML research dataset |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notPhani&theme=react-dark&hide_border=true" width="90%" />
@@ -86,36 +89,17 @@ Software engineer with expertise in machine learning, full-stack development, an
 
 ---
 
-## 💡 Technical Approach
-
-**Philosophy:** Building robust, scalable systems that combine theoretical rigor with practical engineering. Focused on:
-
-- **Performance Optimization:** GPU acceleration, algorithmic efficiency, and hardware-aware design
-- **Research-Driven Development:** Implementing cutting-edge ML techniques in production contexts
-- **Code Quality:** Clean architecture, comprehensive documentation, and maintainable codebases
-- **Cross-Domain Integration:** Bridging ML, systems programming, and full-stack development
-
----
-
-## 🎯 Current Focus
-
-- Advanced rendering techniques combining neural networks with physically-based models
-- GPU-accelerated machine learning pipelines
-- Distributed systems architecture and optimization
-- Open-source contributions in ML and graphics domains
-
----
-
 ## 📫 Contact
 
-💼 **LinkedIn:** [linkedin.com/in/phanikumar2007](https://www.linkedin.com/in/phanikumar2007/)  
-📧 **Email:** phaniexplains14@gmail.com  
-🌐 **GitHub:** [github.com/notPhani](https://github.com/notPhani)
+💼 [linkedin.com/in/phanikumar2007](https://www.linkedin.com/in/phanikumar2007/)  
+📧 phanikumarpatnala.224007@gmail.com  
+🌐 [github.com/notPhani](https://github.com/notPhani)
 
 ---
 
 <div align="center">
 
-*Open to discussing opportunities in Machine Learning, Systems Engineering, and Full-Stack Development*
+*Building at the intersection of quantum systems, ML infrastructure, and low-level engineering.*  
+*Open to Summer 2026 internships — onsite or remote.*
 
 </div>
